@@ -1,6 +1,6 @@
 # gutenberg-bot
 
-Download downloads a story from guttenburg using stream, parses it for a bag of words, and determines the 5 most common phrases used in the book not including stopwords. Uses threads.
+Downloads a story from guttenburg.org using stream, parses it for a bag of words, and determines the 5 most common phrases used in the book not including stopwords. Uses threading 
 
 ## Built With
 
